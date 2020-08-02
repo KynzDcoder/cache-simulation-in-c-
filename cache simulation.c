@@ -138,5 +138,5 @@ int main(int argc, char *argv[])
     print_hit_ratio();
     write_cache_table();
     fclose(ifp);
-}
+
 
